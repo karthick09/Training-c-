@@ -24,6 +24,10 @@ namespace Program
             // await asyncExample.x.DisplayCurrentInfoAsync();
             // stringBuilder.builder.display();
             // check.test_check.display();
+            // int? a = null;
+            // int i =10;
+            // i=a??0;
+            // Console.WriteLine();
         }
     }
 }
