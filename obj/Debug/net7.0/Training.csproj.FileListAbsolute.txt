@@ -1,0 +1,30 @@
+C:\Users\karthick.m\Training\bin\Debug\net7.0\Training.exe
+C:\Users\karthick.m\Training\bin\Debug\net7.0\Training.deps.json
+C:\Users\karthick.m\Training\bin\Debug\net7.0\Training.runtimeconfig.json
+C:\Users\karthick.m\Training\bin\Debug\net7.0\Training.dll
+C:\Users\karthick.m\Training\bin\Debug\net7.0\Training.pdb
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.csproj.AssemblyReference.cache
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.AssemblyInfoInputs.cache
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.AssemblyInfo.cs
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.dll
+C:\Users\karthick.m\Training\obj\Debug\net7.0\refint\Training.dll
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.pdb
+C:\Users\karthick.m\Training\obj\Debug\net7.0\Training.genruntimeconfig.cache
+C:\Users\karthick.m\Training\obj\Debug\net7.0\ref\Training.dll
+D:\OneDrive - srfonline\Documents\Training\Training c#\bin\Debug\net7.0\Training.exe
+D:\OneDrive - srfonline\Documents\Training\Training c#\bin\Debug\net7.0\Training.deps.json
+D:\OneDrive - srfonline\Documents\Training\Training c#\bin\Debug\net7.0\Training.runtimeconfig.json
+D:\OneDrive - srfonline\Documents\Training\Training c#\bin\Debug\net7.0\Training.dll
+D:\OneDrive - srfonline\Documents\Training\Training c#\bin\Debug\net7.0\Training.pdb
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.csproj.AssemblyReference.cache
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.AssemblyInfoInputs.cache
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.AssemblyInfo.cs
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.csproj.CoreCompileInputs.cache
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.dll
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\refint\Training.dll
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.pdb
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\Training.genruntimeconfig.cache
+D:\OneDrive - srfonline\Documents\Training\Training c#\obj\Debug\net7.0\ref\Training.dll
